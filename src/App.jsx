@@ -6,6 +6,8 @@ import Hero from './components/Hero';
 import Project from './components/Project';
 import Service from './components/Service';
 
+import '../src/assets/css/styles.css'; // Import the CSS file
+
 const App = () => {
   return (
     <div>
